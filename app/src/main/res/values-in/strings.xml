@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">NISMO</string>
+    <string name="label_username">Nama Pengguna</string>
+    <string name="label_password">Kata Sandi</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+    <string name="label_email">Email</string>
+
+    <string name="fisnem">Nama Depan</string>
+    <string name="lasnem">Nama Belakang</string>
+    <string name="paskon">Konfirmasi Sandi</string>
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="lumpnya">Belum punya akun ?</string>
+    <string name="news">BERITA</string>
+    <string name="parts">ONDERDIL</string>
+    <string name="account">AKUN</string>
+    <string name="saldo">"Total Saldo"</string>
+    <string name="pengluwaran">"Tipe Member"</string>
+    <string name="myorder">"QR CODE SAYA"</string>
+    <string name="packing">Dikemas</string>
+    <string name="sending">Dikirim</string>
+    <string name="rating">"Beri Rating"</string>
+    <string name="paket">Paket</string>
+    <string name="perkiraan">" (Estimasi kedatangan besok)"</string>
+    <string name="dompet">"ID MEMBER NISMO"</string>
+    <string name="purchase">Histori Pembelian ></string>
+    <string name="setingakun">"Setting Akun"</string>
+    <string name="voucher">"Voucher Saya"</string>
+    <string name="call">"Tanya Call Center"</string>
+    <string name="apparel">PAKAIAN DAN AKSESORIS</string>
+    <string name="jdulbrit1">"Nissan GT-R 2024 mendapatkan aerodinamika yang diperbarui"</string>
+    <string name="brit1">"... dengan GT-R Premium dan T-spec® dengan 565."</string>
+    <string name="jdulbrit2">"Inilah Tampilan Pertama Nissan GT-R 2024"</string>
+    <string name="brit2">"Nissan telah secara resmi mengungkapkan jajaran GT-R 2024..."</string>
+    <string name="home">BERANDA</string>
+    <string name="cart">KERANJANG</string>
+    <string name="aparl">PAKAIAN</string>
+    <string name="estimation">Estimasi kedatangan 1 bulan kedepan</string>
+    <string name="diskz">Voucher Diskon 10% Terpasang</string>
+    <string name="cekot">CheckOut Sekarang</string>
+    <string name="yumei">Kamu Mungkin Juga Suka </string>
+    <string name="mnucekot">Menu CheckOut</string>
+    <string name="cekotol">CheckOut Semua</string>
+    <string name="konfbayar">Konfirmasi Pembayaran</string>
+    <string name="selektetitem">Barang Yang Anda Pilih :</string>
+    <string name="bayar">Bayar</string>
+    <string name="btal">Batal</string>
+    <string name="metodi">Metode Pembayaran :</string>
+    <string name="qty">Jumlah :</string>
+    <string name="title_activity_shop">ShopActivity</string>
+    <string name="title_activity_lmwheel">LMWheelActivity</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="back">Kembali</string>
+    <string name="bli">Beli Sekarang</string>
+    <string name="desc">Deskripsi</string>
+    <string name="det">Detail Produk</string>
+    <string name="bri1">Untuk pengemudi yang mencari tingkat kemampuan lebih tinggi, GT-R NISMO adalah versi GT-R yang lebih berorientasi trek. Selain revisi aerodinamis, NISMO GT-R 2024 mendapat manfaat dari peningkatan diferensial selip terbatas depan. pengalaman berkendara dan mencontohkan pendekatan tim NISMO untuk peningkatan iteratif yang terus membangun kemampuan GT-R.</string>
+    <string name="bri2">Puncak rekayasa performa tinggi Nissan, secara mendebarkan menggabungkan mesin tenaga kuda tinggi dengan penanganan yang mengesankan dan teknologi yang berguna untuk berkendara sehari-hari. Untuk model tahun 2024, GT-R bahkan lebih menarik dengan peningkatan mendalam pada performa aerodinamisnya, the pengembalian trim khusus dan revisi paket yang tersedia.</string>
+    <string name="bri3">Nissan GT-R 2024 ditawarkan dalam tiga kelas, dimulai dengan GT-R Premium dan T-spec® dengan 565 tenaga kuda, memberikan pilihan menggiurkan bagi mereka yang mencari mobil sport super. GT-R NISMO 600-tenaga kuda1 menawarkan tingkat kinerja yang lebih luar biasa, dengan teknik yang diambil langsung dari aplikasi olahraga motor</string>
+    <string name="pwd_incorrect">Kata Sandi Salah</string>
+
+
+</resources>

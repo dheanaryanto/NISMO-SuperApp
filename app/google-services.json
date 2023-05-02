@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "71853320738",
+    "project_id": "nismo-8462c",
+    "storage_bucket": "nismo-8462c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71853320738:android:ca94f7f9b55f0e01b7787b",
+        "android_client_info": {
+          "package_name": "edu.uksw.fti.pam.pam_activityintent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71853320738-h7fn6dn3l3mgp97uqig8ntiaei1klm5m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIlwFuTqOW3TqxhDjLB8xWIdK1uZM86X0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71853320738-h7fn6dn3l3mgp97uqig8ntiaei1klm5m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
